@@ -1,0 +1,242 @@
+/*************************************
+GENERAL
+**************************************/
+
+
+
+
+img{
+
+ max-width: 100%
+
+}
+
+#para1{
+
+ font-family:"Times New Roman", Georgia, Serif;
+
+ font-size: 1em;
+ 
+ font-weight:normal;
+  
+ text-align:justify;
+
+ text-indent: 50px;
+
+ line-height: 2.00;
+
+}
+
+p{
+
+ font-family:"Times New Roman", Georgia, Serif;
+
+ font-size: 1em;
+ 
+ font-weight:normal;
+  
+ text-align:justify;
+
+ text-indent: 50px;
+
+ line-height: 1.25;
+
+}
+
+#wrapper1{
+
+ max-width:550px;
+ 
+ margin: 0 auto;
+
+ padding: 0 5%;
+
+}
+
+#wrapper2{
+
+ max-width:750px;
+ 
+ margin: 0 auto;
+
+ padding: 0 5%;
+
+}
+
+#wrapper3{
+
+ max-width:750px;
+ 
+ margin: 0 auto;
+
+ padding: 0 5%;
+
+}
+
+#wrapper4{
+
+ max-width:750px;
+ 
+ margin: 0 auto;
+
+ padding: 0 5%;
+
+}
+
+
+
+/*************************************
+HEADING
+**************************************/
+
+header{
+
+ float:left;
+
+ margin: 0 0 20px 0;
+
+ padding: 2px 0 0 0;
+
+ width: 100%
+
+}
+
+h1{
+
+ font-family: "Bernard MT Condensed";
+
+ margin: 20px 0;
+
+ font-size: 2.55em;
+
+ font-weight: normal;
+
+ line-height: 1;
+
+ text-align:center;
+
+ word-spacing: 5px;
+
+ color: #70936c;
+
+}
+
+
+h2{
+
+ font-family: "Bernard MT Condensed";
+
+ margin: 20px 0;
+
+ font-size: 2.55em;
+
+ font-weight: normal;
+
+ line-height: 1;
+
+ text-align: center;
+
+ word-spacing: 5px;
+
+ color: #70936c;
+
+}
+
+h3{
+
+ font-family: "Bernard MT Condensed";
+
+ margin: 20px 0;
+
+ font-size: 2.55em;
+
+ font-weight: normal;
+
+ line-height: 1;
+
+ text-align: center;
+
+ word-spacing: 5px;
+
+ color: #70936c;
+
+}
+
+h4{
+
+ font-family: "Bernard MT Condensed";
+
+ margin: 20px 0;
+
+ font-size: 2.55em;
+
+ font-weight: normal;
+
+ line-height: 1;
+
+ text-align:center;
+
+ word-spacing: 5px;
+
+ color: #70936c;
+
+}
+
+
+/*************************************
+FOOTER
+**************************************/
+
+footer{
+
+ font-size: 0.75em;
+
+ text-align: center;
+ 
+ clear: both;
+
+ padding-top: 50px;
+ 
+ color:#ccc;
+
+}
+
+
+/*************************************
+PAGE:
+**************************************/
+
+.image3 {
+    float:left;
+    width:150px;
+    height:175px;
+    margin:20px;
+    border-radius: 20px;
+}
+
+.image4{
+    float:center;
+    width:150px;
+    height:175px;
+    margin:40px;
+    border-radius: 20px;
+}
+
+.image5{
+    float:center;
+    width:150px;
+    height:175px;
+    margin:40px;
+    border-radius: 20px;
+}
+
+.image6{
+    float:center;
+    width:150px;
+    height:175px;
+    margin:40px;
+    border-radius: 20px;
+}
+
+
+
